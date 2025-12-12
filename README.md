@@ -14,7 +14,7 @@ AgroVisionGPT is an end-to-end AI system that detects plant diseases from images
 3. Google Translate API converts the result to any language  
 
 ## 🧠 Model Overview
-```markdown
+
 ```mermaid
 flowchart LR
 A[Leaf Image] --> B[Disease Classifier]
